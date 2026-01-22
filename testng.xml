@@ -4,7 +4,7 @@
 
 	<test name="End to End Tests">
 		<classes>
-			<class name="tests.EndToEndTest" />
+			<class name="com.dyonhel.automation.tests.EndToEndTest" />
 		</classes>
 	</test>
 
